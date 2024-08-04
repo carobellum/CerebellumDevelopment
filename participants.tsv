@@ -1,3 +1,3 @@
-dataset	participant_id	sex	age	T1w	Task	Rest	Coverage	Review
-Example	sub-02	F	25	1	1	1	Full	CN
-Example	sub-03	F	19	1	1	1	Partial	CN
+dataset	participant_id	sex	age	Downloaded	T1w	Task	Rest	Coverage	Review
+Example	sub-02	F	25	1	1	1	1	Full	CN
+Example	sub-03	F	19	1	1	1	1	Partial	CN
